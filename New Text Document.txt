@@ -1,0 +1,1 @@
+ganache-cli --db ./ganache_data  --gasLimit 1 --networkId 1337 --deterministic --port 8545
